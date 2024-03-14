@@ -20,3 +20,4 @@ To get started with the Simple & customizable documentation page, follow these s
 1. Clone the repository by downloading it as a ZIP file or running the command `git clone https://github.com/audriuxsmik/simple-docs-page`.
 2. Navigate to the template's directory `/css/` and customize `style.css` & `hightlightjs-dark.css`.
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/audriuxsmik/simple-docs-page/blob/main/showcase.png)https://github.com/audriuxsmik/simple-docs-page/blob/main/showcase.png)
