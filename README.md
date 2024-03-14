@@ -6,7 +6,7 @@
 
 Simple customizable documentation page with a simple & nice design.
 
-![alt text](https://raw.githubusercontent.com/audriuxsmik/simple-docs-page/main/showcase.png)
+![alt text](https://raw.githubusercontent.com/audriuxsmik/simple-docs-page/main/docs.png)
 
 ## Features
 
